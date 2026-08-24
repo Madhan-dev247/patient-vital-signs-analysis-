@@ -182,3 +182,41 @@ patient-vital-signs-analysis/
 │
 ├── README.md
 └── requirements.txt
+## 🚀 How to Run
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Madhan-dev247/patient-vital-signs-analysis-.git
+cd patient-vital-signs-analysis-
+```
+
+### 2. Install required libraries
+```bash
+pip install -r requirements.txt
+```
+```markdown
+### 3. Open Jupyter Notebook
+```
+
+```bash
+jupyter notebook
+```
+### 4. Run the analysis
+
+Open:
+
+```text
+notebooks/patient_vitals_analysis.ipynb
+```
+### 5. View the results
+
+The generated files are available in:
+
+```text
+output/
+```
+
+### Disclaimer
+
+This project is intended for educational and data-analysis purposes only. It is not a medical diagnostic system and should not be used for clinical decision-making.
