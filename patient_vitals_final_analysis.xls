@@ -1,0 +1,11 @@
+Patient_ID,Age,Gender,Heart_Rate,SpO2,Temperature,Systolic_BP,Diastolic_BP,Status,Risk_Status,Abnormal_Vitals
+P001,25,M,72,98,36.7,120,80,Normal,Normal,None
+P002,34,F,85,97,37.1,128,84,Normal,Normal,None
+P003,52,M,91,95,37.4,140,90,Normal,Normal,None
+P004,41,F,76,99,36.8,118,78,Normal,Normal,None
+P005,67,M,102,93,38.1,150,95,Needs Attention,Needs Attention,"Heart Rate, SpO2, Temperature, Systolic BP, Diastolic BP"
+P006,29,F,68,98,36.6,115,76,Normal,Normal,None
+P007,73,F,110,91,38.5,160,100,Needs Attention,Needs Attention,"Heart Rate, SpO2, Temperature, Systolic BP, Diastolic BP"
+P008,45,M,88,96,37.2,135,88,Normal,Normal,None
+P009,56,F,79,97,37.0,130,85,Normal,Normal,None
+P010,38,M,74,99,36.5,122,80,Normal,Normal,None

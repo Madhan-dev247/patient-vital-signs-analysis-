@@ -1,0 +1,9 @@
+Metric,Value
+Total Patients,10.0
+Normal Patients,8.0
+Needs Attention,2.0
+Average Heart Rate (bpm),84.5
+Average SpO2 (%),96.3
+Average Temperature (°C),37.19
+Average Systolic BP (mmHg),131.8
+Average Diastolic BP (mmHg),85.6
