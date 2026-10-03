@@ -1,6 +1,6 @@
 # Patient Vital Signs Analysis
 
-## 🩺 Biomedical Patient Data Analysis Using Python
+##  Biomedical Patient Data Analysis Using Python
 
 A Python-based biomedical data analysis project for analyzing patient vital signs and identifying patients who may require further attention.
 
@@ -8,7 +8,7 @@ The project analyzes important physiological parameters such as heart rate, SpO�
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 Patient vital signs provide important information about a person's physiological condition.
 
@@ -25,7 +25,7 @@ This project uses Python and data analysis techniques to:
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 1. Analyze patient vital-sign data using Python.
 2. Identify patients with abnormal physiological measurements.
@@ -36,7 +36,7 @@ This project uses Python and data analysis techniques to:
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas
@@ -48,7 +48,7 @@ This project uses Python and data analysis techniques to:
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains information for **10 patients**.
 
@@ -71,7 +71,7 @@ The original dataset is available in:
 
 ---
 
-## 🔬 Methodology
+##  Methodology
 
 The project follows these major steps:
 
@@ -124,7 +124,7 @@ Processed patient data and summary statistics are exported as CSV files.
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The project includes visual analysis of:
 
@@ -137,7 +137,7 @@ The project includes visual analysis of:
 
 ---
 
-## 📋 Results
+##  Results
 
 A total of **10 patients** were analyzed.
 
@@ -165,7 +165,7 @@ These patients showed multiple vital-sign values outside the predefined referenc
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 patient-vital-signs-analysis/
@@ -182,7 +182,7 @@ patient-vital-signs-analysis/
 │
 ├── README.md
 └── requirements.txt
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repository
 
